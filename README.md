@@ -1,5 +1,3 @@
-https://github.com/yashpatil7313/site-2-landing-page/settings/pages
-
 # 🚀 Startup Landing Page - Day 1 Project 2
 
 ## 📌 Project Overview
